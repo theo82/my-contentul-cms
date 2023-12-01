@@ -1,3 +1,4 @@
+import './fetchProjects'
 import React from 'react'
 
 const Projects = () => {

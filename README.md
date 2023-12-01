@@ -78,3 +78,6 @@ Setup projects array
 #### Setup Products Component
 
 Render data in Products component
+
+SpaceId: 5pido7z3g4gs
+Access Token: xU_1i3BfI_3B1yT54bsBOlBcWU8kOhguTSYGtgH56P8
